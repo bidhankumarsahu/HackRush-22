@@ -3,23 +3,25 @@ layout: default
 is_contact: true
 ---
 
-* Email: [aniket.r@iitgn.ac.in](mailto:aniket.r@iitgn.ac.in)
+* Email: [bidhan.sahu@iitgn.ac.in](mailto:bidhan.sahu@iitgn.ac.in)
 
-* Phone: [+91-7765961770](tel:+91-7765961770)
+* Phone: [+91-9337032917](tel:+91-9337032917)
 
 ---
 
 ## Mailing Address
 
-> 405, G Hostel,
+> 313, Firpeal,
 >
-> IITGn, 
+> IIT Gandhinagar, 
 >
 > Gandhinagar
 > 
 ---
 
 ## Links
+
+These links are sample links
 
 1. [Twitter](https://twitter.com/AniketRajnish)
 2. [LinkedIn](https://www.linkedin.com/in/makrawtf/)
