@@ -22,4 +22,6 @@ nav:
    link: "past"
  - name: "Event/Workshops"
    link: "event"
+ - name: "Contacts"
+   link: "contact"
  
