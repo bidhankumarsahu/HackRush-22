@@ -1,10 +1,5 @@
 ---
 layout: default
-
+is_past true
 ---
-
-
-lkmkxk
-
-
-nxnklsj
+Should contain names of all the members of the council arranged chronologically.
