@@ -11,7 +11,7 @@ is_contact: true
 
 ## Mailing Address
 
-> 313, Firpeal,
+> Firpeal,
 >
 > IIT Gandhinagar, 
 >
@@ -24,7 +24,6 @@ is_contact: true
 These links are sample links
 
 1. [Twitter](https://twitter.com/AniketRajnish)
-2. [Play Store](https://play.google.com/store/apps/dev?id=7545721879938982945)
-3. [Github](https://github.com/aniketrajnish)
+2. [Github](https://github.com/aniketrajnish)
 
 
