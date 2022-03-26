@@ -4,7 +4,7 @@ layout: default
 
 # About Us
 
-<src="download.png">
+<src=image"download.png">
 
 Technical Council IITGN is the student body that promotes and takes initiatives for the technical activities that happen at IIT Gandhinagar. 
 
