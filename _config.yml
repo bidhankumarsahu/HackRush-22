@@ -14,10 +14,12 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/me/" 
- - name: "CV"
-   link: "Resume.pdf"
- - name: "Contact"
-   link: "clubs"
+ - name: "Clubs"
+   link: "clubs" 
+ - name: "Team"
+   link: "team"
+ - name: "Past Council Members"
+   link: "past"
+ - name: "Event/Workshops"
+   link: "event"
  
