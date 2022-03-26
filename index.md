@@ -4,7 +4,7 @@ layout: default
 
 ## About Us
 
-<img class="profile-picture" src="bidpic.JPG">
+<img class="profile-picture" src="download.png">
 
 Technical Council IITGN is the student body that promotes and takes initiatives for the technical activities that happen at IIT Gandhinagar. 
 
@@ -22,11 +22,6 @@ Type | List
 Languages | English, Hindi, Odia
 Tools & Technologies | HEC RAS, HEC HMS, Arc GIS, ENVI, ERDAS IMAGINE, ArcSWAT, MATLAB, Python, Autodesk Inventor
  
-## More info about me
- 1. PhD Student, IIT Gandhinagar
-  * Water Resources Enginnering
-  * Civil Engineering
-  * Research on Bedload measurement
 
 
 
