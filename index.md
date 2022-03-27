@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # About Us
 <img src="download.png">
