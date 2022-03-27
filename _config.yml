@@ -25,3 +25,5 @@ nav:
  - name: "Contacts"
    link: "contact"
  
+
+theme: jekyll-theme-cayman
